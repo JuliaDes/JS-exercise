@@ -1,0 +1,7 @@
+.rightPassword {
+    border-color: green;
+}
+
+.wrongPassword {
+    border-color: red;
+}
